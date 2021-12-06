@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Szymon Ruszkiewicz</h1>
 <h3 align="center">A passionate game developer and software developer from Poland</h3>
 
-- 🔭 I’m currently working on [Uruk'Sahzal Assault](https://github.com/Xymoh/Uruk-Sahzal-Assault)
+- 🔭 I’m currently working on [Uruk'Sahzal Assault](https://github.com/Xymoh/Uruk-Sahzal-Assault) *(Private repo)*
 
 - 🌱 I’m currently learning **Unity, Discord.py and React**
 
