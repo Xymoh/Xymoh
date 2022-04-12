@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [OdysseyKaynBot](https://github.com/Xymoh/OdysseyKaynBot)
 
-- 👨‍💻 All of my projects are available at [https://saekimon.netlify.app/](https://saekimon.netlify.app/)
+- 👨‍💻 All of my projects are available at [my portfolio](https://sruszkiewicz.netlify.app)
 
 - 💬 Ask me about **Coowork and Unity**
 
