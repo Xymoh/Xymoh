@@ -3,13 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xymoh" alt="xymoh" /></a> </p>
 
-- 🔭 I’m currently working on [Triumphant-Ryze](https://github.com/Xymoh/triumphant-ryze)
+- 🔭 I’m currently working on Braintease (soon announced)
 
-- 👯 I’m looking to collaborate on [Discord-HuTao](https://github.com/Xymoh/Discord-HuTao)
+- 💬 Ask me about **Anything you need to know when it comes to mobile dev!**
 
-- 💬 Ask me about **React, React-Native, stable-diffusion**
-
-- 📫 How to reach me **ruszkiewiczszymon@gmail.com**
+- 📫 How to reach me **ruszkiewiczszymon@gmail.com** or [Linkedin](https://www.linkedin.com/in/szymon-r-548526180/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
