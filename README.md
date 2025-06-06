@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Anything you need to know when it comes to mobile dev!**
 
-- 📫 How to reach me **ruszkiewiczszymon@gmail.com** or [Linkedin](https://www.linkedin.com/in/szymon-r-548526180/)
+- 📫 How to reach me **szyruszk@gmail.com** or [Linkedin](https://www.linkedin.com/in/szymon-r-548526180/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
