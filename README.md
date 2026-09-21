@@ -3,11 +3,6 @@
   <p>
     <strong>Senior Full-Stack & Mobile Engineer | Generative AI & LoRA Specialist</strong>
   </p>
-  <p>
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=xymoh&theme=flat" alt="xymoh's trophies" />
-    </a>
-  </p>
 </div>
 
 ---
@@ -43,10 +38,3 @@
 #### **Design & Product**
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xymoh&show_icons=true&theme=radical" alt="xymoh's GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xymoh&layout=compact&theme=radical" alt="Top Languages" height="150" />
-</div>
