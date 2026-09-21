@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React Native, React, Mobile Architecture, and Performance Optimization.** as well as my upcoming **ML projects** and the **LoRA** I'm creating for ComfyUI
 
-- 📫 How to reach me: **szyruszk@gmail.com** or [LinkedIn](https://www.linkedin.com/in/szymon-r-548526180/)
+- 📫 How to reach me: **szyruszk@gmail.com** or Discord: **sathean**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
