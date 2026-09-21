@@ -1,28 +1,52 @@
-<h1 align="center">Hi 👋, I'm Szymon R.</h1>
-<h3 align="center">Software Engineer | React Native & React Ecosystem | ML</h3>
+<div align="center">
+  <h1>Hi 👋, I'm Szymon R.</h1>
+  <p>
+    <strong>Senior Full-Stack & Mobile Engineer | Generative AI & LoRA Specialist</strong>
+  </p>
+  <p>
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=xymoh&theme=flat" alt="xymoh's trophies" />
+    </a>
+  </p>
+</div>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xymoh&theme=flat" alt="xymoh" /></a> </p>
+---
 
-- 🔭 I’m currently working on **TagBoru** and **Anifoodie**
+### 🚀 About Me
 
-- 💡 I specialize in building scalable mobile and web applications, custom native bridges, and performance optimization.
+- 🔭 **Current Focus:** Building **TagBoru** and **Anifoodie**, alongside custom generative diffusion pipelines.
+- 💡 **Core Expertise:** End-to-end mobile architecture (cross-platform & native bridges), responsive web applications, and local ML workflows.
+- 🎨 **Generative AI & Tooling:** Designing custom **LoRA models**, building automated pipelines in **ComfyUI**, and integrating LLM workflows via **Claude**.
+- 💬 **Let's Talk About:** React Native internal architectures, native modules (Swift/Kotlin), LoRA dataset curation & fine-tuning, or state-driven frontend systems.
+- 📫 **Reach Me:** [szyruszk@gmail.com](mailto:szyruszk@gmail.com) • Discord: **sathean**
 
-- 💬 Ask me about **React Native, React, Mobile Architecture, and Performance Optimization.** as well as my upcoming **ML projects** and the **LoRA** I'm creating for ComfyUI
+---
 
-- 📫 How to reach me: **szyruszk@gmail.com** or Discord: **sathean**
+### 🛠️ Tech Stack & Tooling
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="szymon ruszkiewicz" height="30" width="40" /></a>
-<a href="https://discord.gg/Sathean#4119" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Sathean#4119" height="30" width="40" /></a>
-</p>
+#### **Mobile & Web Engineering**
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
-  <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg" alt="ionic" width="40" height="40"/> </a> 
-</p>
+#### **Backend, Systems & Machine Learning**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![ComfyUI](https://img.shields.io/badge/ComfyUI-FF6B6B?style=for-the-badge&logo=ai&logoColor=white)
+![LoRA Training](https://img.shields.io/badge/Diffusion%20%2F%20LoRA-8A2BE2?style=for-the-badge)
+![Claude](https://img.shields.io/badge/Claude%20AI-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
+
+#### **Design & Product**
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xymoh&show_icons=true&theme=radical" alt="xymoh's GitHub stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xymoh&layout=compact&theme=radical" alt="Top Languages" height="150" />
+</div>
