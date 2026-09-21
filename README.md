@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Szymon Ruszkiewicz</h1>
+<h1 align="center">Hi 👋, I'm Szymon R.</h1>
 <h3 align="center">Software Engineer | React Native & React Ecosystem | ML</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xymoh&theme=flat" alt="xymoh" /></a> </p>
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/szymon-r-548526180/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="szymon ruszkiewicz" height="30" width="40" /></a>
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="szymon ruszkiewicz" height="30" width="40" /></a>
 <a href="https://discord.gg/Sathean#4119" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Sathean#4119" height="30" width="40" /></a>
 </p>
 
